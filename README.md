@@ -10,7 +10,7 @@ This is an Android Application built on top of the [MifosX](https://mifosforge.j
 
 ### Features
 
-- Search of Clients, Client Details Viewing.
+- Search of Clients, Client Details Viewing and Structure.
 - Creating new Clients, Groups, and Centers.
 - Savings Accounts and Loan Accounts Viewing.
 - Savings Account Transactions (Withdrawal & Deposit).
